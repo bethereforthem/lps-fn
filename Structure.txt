@@ -1,0 +1,57 @@
+learning-portal/
+├── public/
+│   ├── favicon.ico
+│   └── assets/
+│       └── images/
+├── src/
+│   ├── components/
+│   │   ├── common/
+│   │   │   └── MainLayout.jsx
+│   │   ├── auth/
+│   │   │   ├── LoginForm.jsx
+│   │   │   └── RegisterForm.jsx
+│   │   ├── admin/
+│   │   │   ├── LecturerManagement.jsx
+│   │   │   └── SystemStats.jsx
+│   │   ├── lecturer/
+│   │   │   ├── CourseCreation.jsx
+│   │   │   ├── LecturerProfile.jsx
+│   │   │   ├── StudentInteraction.jsx
+│   │   │   └── StudentProgress.jsx
+│   │   └── student/
+│   │       ├── CourseContent.jsx
+│   │       ├── CourseDetails.jsx
+│   │       ├── CourseList.jsx
+│   │       └── ProfileSection.jsx
+│   ├── pages/
+│   │   ├── AdminDashboard.jsx
+│   │   ├── CourseDetailsPage.jsx
+│   │   ├── CoursesPage.jsx
+│   │   ├── HomePage.jsx
+│   │   ├── LecturerDashboard.jsx
+│   │   ├── LoginPage.jsx
+│   │   ├── ProfilePage.jsx
+│   │   ├── RegisterPage.jsx
+│   │   └── StudentDashboard.jsx
+│   ├── services/
+│   │   ├── api.js
+│   │   ├── authService.js
+│   │   └── courseService.js
+│   ├── context/
+│   │   └── AuthContext.jsx
+│   ├── utils/
+│   │   ├── constants.js
+│   │   └── helpers.js
+│   ├── styles/
+│   │   └── (your CSS or Tailwind files)
+│   └── index.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── README.md
+├── tailwind.config.js
+├── vite.config.js
+└── Structure.txt
