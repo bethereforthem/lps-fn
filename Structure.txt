@@ -29,7 +29,7 @@ learning-portal/
 │   │   ├── CoursesPage.jsx
 │   │   ├── HomePage.jsx
 │   │   ├── LecturerDashboard.jsx
-│   │   ├── LoginPage.jsx
+│   │   ├── LoginPage.jsx, ForgotPasswordPage.jsx
 │   │   ├── ProfilePage.jsx
 │   │   ├── RegisterPage.jsx
 │   │   └── StudentDashboard.jsx
